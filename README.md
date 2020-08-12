@@ -1,2 +1,2 @@
-# C.Programs
-Hey there!! In this repository i have included all the basic programs of C Programming Language. It will help you to access every aspects of the C Programming Language.
+# **C.Programs**
+- In this repository, I have included all the basics programs of C Programming Language. You can get insights about various programs written in C Programming Language.
