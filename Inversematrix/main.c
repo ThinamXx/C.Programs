@@ -1,5 +1,8 @@
+// Program for printing the Inverse of a Matrix:
+
 #include <stdio.h>
 #include <conio.h>
+
 int main()
 {
    int i, j, x, y;
