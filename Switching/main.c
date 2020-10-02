@@ -1,4 +1,7 @@
+// Example of Implementation of Switch Program:
+
 #include <stdio.h>
+
 void main()
 {
     int choice;
