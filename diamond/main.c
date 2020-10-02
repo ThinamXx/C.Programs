@@ -1,4 +1,7 @@
+// Program for making a Diamond shape using asterisk:
+
 #include <stdio.h>
+
 int main()
 {
     int i, j, n, space;
