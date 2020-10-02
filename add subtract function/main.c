@@ -1,4 +1,7 @@
+// Example of Implementation of Function in subtracting two numbers:
+
 #include <stdio.h>
+
 int main()
 {
     int num1, num2, result;
@@ -10,6 +13,7 @@ int main()
     printf("Subtraction of two numbers is %d", result);
     return  0;
 }
+
 int add(int a, int b)
 {
     int sub;
