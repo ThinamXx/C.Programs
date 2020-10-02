@@ -1,6 +1,8 @@
-//Swapping of two numbers
+// Program for Swapping two numbers:
+
 #include <stdio.h>
 #include <math.h>
+
 void main()
 {
     int a;
