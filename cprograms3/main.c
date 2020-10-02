@@ -1,7 +1,9 @@
-//Area and circumference of circle
+// Program for calculating the Area and Circumference of circle:
+
 #include <math.h>
 #include <stdio.h>
 #define PI 3.14
+
 void main()
 {
     float area;
