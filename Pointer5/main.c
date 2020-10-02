@@ -1,4 +1,4 @@
-// Example of Pointer Program:
+// Example of Pointer Implementation in Program:
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -13,5 +13,4 @@ int main()
    c = a/b;
    p = &c;
    printf("%f", *(float*)p);
-
 }
