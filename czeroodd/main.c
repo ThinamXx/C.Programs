@@ -1,5 +1,7 @@
-//whether odd or even
+// Program for checking whether a given number is odd or even:
+
 #include <stdio.h>
+
 int main()
 {
     int number;
