@@ -1,3 +1,5 @@
+// Printing the sum of elements in Array using Pointer:
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -24,5 +26,4 @@ int main()
         ptr++;
     }
     printf("\nThe sum of array is %d", sum);
-
 }
