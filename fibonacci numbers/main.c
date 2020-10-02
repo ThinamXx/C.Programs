@@ -1,5 +1,8 @@
+// Program for printing the Fibonacci numbers series:
+
 #include <stdio.h>
 #include <string.h>
+
  void main()
  {
      int n, c = 0;
@@ -13,6 +16,7 @@
          c++;
      }
  }
+
  int Fib(int a)
  {
      int f;
