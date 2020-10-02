@@ -1,6 +1,9 @@
+// Swapping of two numbers using third variable. Implementation of Call by reference.
+
 #include <stdio.h>
-//Swapping of two numbers using third variable
+
 int swap(int *a, int *b);
+
 int main()
 {
     int x, y;
@@ -13,6 +16,7 @@ int main()
     printf("\nAfter Swapping:\n");
     printf("The value of x is %d and y is %d", x, y);
 }
+
 int swap(int *a, int *b)
 {
     int c;
