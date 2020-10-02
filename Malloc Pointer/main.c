@@ -13,7 +13,7 @@ int main()
     scanf("%d", &n);
     // Calloc Pointer:
      ptr = (int*)calloc(n,sizeof(int));
-    //ptr = (int*)malloc(n*sizeof(int)); // Malloc Pointer.
+    // ptr = (int*)malloc(n*sizeof(int)); // Malloc Pointer.
     if(ptr == NULL)
     {
         printf("Error");
