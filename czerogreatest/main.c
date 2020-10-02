@@ -1,5 +1,7 @@
-//Comparison
+// Program for comparing the Numbers: 
+
 #include <stdio.h>
+
 int main()
 {
     int a, b, c;
@@ -13,7 +15,5 @@ int main()
         printf("The greatest number is %d", c);
     else
         printf("Invalid input number");
-
-
     return 0;
 }
