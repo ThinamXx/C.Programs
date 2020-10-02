@@ -1,6 +1,8 @@
-//Addition of two numbers
+// Addition of two numbers:
+
 #include <stdio.h>
 #include <math.h>
+
 void main()
 {
     int a;
