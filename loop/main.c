@@ -1,4 +1,7 @@
+// Example program of For Loop:
+
 #include <stdio.h>
+
 int main()
 {
     int i,j;
