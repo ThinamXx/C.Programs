@@ -1,4 +1,4 @@
-// Example of Implementation of Switch Program:
+// Example of Implementation of Switching in Program:
 
 #include <stdio.h>
 
