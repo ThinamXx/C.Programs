@@ -1,5 +1,7 @@
-//10numbers
+// Printing the sum of first natural numbers:
+
 #include <stdio.h>
+
 void main()
 {
    int i = 1;
