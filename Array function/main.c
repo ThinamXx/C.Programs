@@ -1,4 +1,7 @@
+// Sum of elements inside an Array:
+
 #include <stdio.h>
+
 int main()
 {
     int i;
@@ -10,6 +13,7 @@ int main()
     }
     print(a,5);
 }
+
 void print(int b[5])
 {
     int sum = 0;
