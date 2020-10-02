@@ -1,10 +1,14 @@
+// Program for adding two numbers using Function:
+
 #include <stdio.h>
+
 int add(int a, int b)
 {
     int add;
     add = a  + b;
     return add;
 }
+
 int main()
 {
     int num1, num2, result;
