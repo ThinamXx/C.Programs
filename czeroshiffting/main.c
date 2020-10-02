@@ -1,5 +1,7 @@
-//shifting of data by 3bits
+// Program for shifting the Data by 3 bits.
+
 #include <stdio.h>
+
 int main()
 {
     int a, b;
@@ -8,6 +10,5 @@ int main()
     a>>=3;
     b=a;
     printf("The right shifted data is=%d ", b);
-
     return 0;
 }
