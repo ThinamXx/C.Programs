@@ -1,3 +1,5 @@
+// Example program of File Management:
+
 #include <stdio.h>
 #include <stdlib.h>
 
