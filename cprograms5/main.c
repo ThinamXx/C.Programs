@@ -1,6 +1,8 @@
-//Percentage
+// Program for calculating the Percentage:
+
 #include <stdio.h>
 #include <math.h>
+
 void main()
 {
     float a,b,c,d,e,f;
