@@ -1,3 +1,5 @@
+// Example Program of Implementation of Pointers:
+
 #include <stdio.h>
 #include <stdlib.h>
 
