@@ -1,5 +1,7 @@
-//Multiple of 5
+// Program for calculating the multiple of a given number:
+
 #include <stdio.h>
+
 int main()
 {
     int n, i;
