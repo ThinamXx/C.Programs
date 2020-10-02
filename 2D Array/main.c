@@ -1,10 +1,13 @@
-// Program for 2D Arrays
+// Program for adding 2 Dimensional Arrays:
+
 #include <stdio.h>
+
 int main()
 {
     int a[3][3], b[3][3];
     add(a,b);
 }
+
 void add(int a, int b)
 {
     int i, j;
