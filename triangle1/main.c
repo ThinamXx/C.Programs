@@ -1,4 +1,7 @@
+// Program for making a triangle shape using asterisk:
+
 #include <stdio.h>
+
 int main()
 {
     int i, j;
