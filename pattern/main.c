@@ -1,4 +1,7 @@
+// Example Program for making patterns:
+
 #include <stdio.h>
+
 int main()
 {
     int i, j, a;
