@@ -1,5 +1,8 @@
+// Example for printing the elements of an Array:
+
 #include <stdio.h>
 #include <conio.h>
+
 int main()
 {
     int value[10];
