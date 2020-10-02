@@ -1,6 +1,8 @@
- //Compound Interest
+ // Program for calculating the Compound Interest:
+
 #include <stdio.h>
 #include <math.h>
+
 void main()
 {
     float P,T,R,I;
