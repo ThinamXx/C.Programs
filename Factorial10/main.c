@@ -1,5 +1,8 @@
+// Program for printing the Factorial of a number:
+
 #include <stdio.h>
 #include <string.h>
+
 void main()
 {
     int i, count = 0;
@@ -15,6 +18,7 @@ void main()
 
     return 0;
 }
+
 int Fact(int n)
 {
     if(n<=1)
