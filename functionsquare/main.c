@@ -1,4 +1,7 @@
+// Program for finding the square of a number using Function:
+
 #include <stdio.h>
+
 int main()
 {
     int n, a;
@@ -7,6 +10,7 @@ int main()
     a = square(n);
     printf("Answer is %d", a);
 }
+
 int square(int y)
 {
     int sq;
