@@ -1,4 +1,7 @@
+// Program for sorting an array of numbers:
+
 #include <stdio.h>
+
 int main()
 {
     int a[5] = {56, 4, 69, 76, 2};
