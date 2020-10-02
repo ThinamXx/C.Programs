@@ -1,4 +1,7 @@
+// Program for printing the ASCII letters:
+
 #include <stdio.h>
+
 void main()
 {
     char i;
