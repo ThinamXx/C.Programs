@@ -1,4 +1,7 @@
+// Program for checking the Armstrong Numbers:
+
 #include <stdio.h>
+
 int main()
 {
     int n,digit,temp,sum=0;
