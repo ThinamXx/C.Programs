@@ -1,4 +1,7 @@
+// Example Program of Multiplication:
+
 #include <stdio.h>
+
 int main()
 {
     int i, j;
